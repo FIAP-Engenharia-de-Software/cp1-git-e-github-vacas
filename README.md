@@ -14,6 +14,8 @@ A SocialConnect é uma plataforma inovadora de rede social focada em te conectar
 
 * HTML
 
+* CSS
+
 ## Integrantes do grupo
 
 Ana Beatriz Da Cruz Silva - RM 572278
@@ -27,6 +29,6 @@ Sávio Pessôa Afonso - RM 570789
 Victor Paes Pontes - RM 572781
 
 ## Link do site publicado no GitHub Pages: 
-
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-vacas/
 
 
