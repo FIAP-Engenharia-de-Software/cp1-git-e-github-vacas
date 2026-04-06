@@ -8,7 +8,7 @@ Turma: 1ESPY.
 
 <img src ="./imagens/logo-social-connect.png">
 
-A SocialConnect é uma plataforma inovadora de rede social focada em te conectar com as pessoas certas. Além disso, a equipe da Social Connect é composta or profissionais altamente qualificados e apaixonados por tecnologia e comunicação. Estão sempre trabalhando duro para garantir que a plataforma seja segura, confiável e fácil de usar.
+A SocialConnect é uma empresa inovadora de rede social focada em te conectar com as pessoas certas. Além disso, a equipe da Social Connect é composta or profissionais altamente qualificados e apaixonados por tecnologia e comunicação. Estão sempre trabalhando duro para garantir que a plataforma seja segura, confiável e fácil de usar.
 
 ## Tecnologias utilizadas
 
